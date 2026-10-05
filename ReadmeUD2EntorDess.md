@@ -1,3 +1,7 @@
+Palabra del día: 29
+Adrián Durán Durán
+
+
 # Tarea Módulo 2: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
 **Asignatura:** Entorno de Desarrollo  
